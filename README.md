@@ -6,4 +6,4 @@
 ### is_enabled
 Whether the plugins is enabled or not. default: true;
 ### accept_time_sec
-How much time since the start of the round have to change SCPs.
+How much time since the start of the round players have to change SCPs. default: 60
